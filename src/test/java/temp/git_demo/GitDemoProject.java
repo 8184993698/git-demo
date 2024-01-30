@@ -9,6 +9,9 @@ public class GitDemoProject {
 			System.out.println("Welcome");
 		}
 	}
+	public void addMethod(){
+	System.out.println("added method");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("hello world");
